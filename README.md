@@ -3,8 +3,8 @@
   <img src="https://raw.githubusercontent.com/ad-thiago/ad-thiago-assets/main/banner-corporativo-ia-cloud.png" alt="Banner IA e Multi-Cloud" width="800"/>
 </p>
 
-<h1 align="center">Olá, eu sou Thiago Duarte Cruz</h1>
-<h3 align="center">Solutions Architect Sênior | Data Analytics & AI | Arquiteturas Multi-Cloud</h3>
+<h1 align="center">Olá, eu sou Thiag Cruz</h1>
+<h3 align="center">Solutions Architect | Data Analytics & AI | Arquiteturas Multi-Cloud</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/duartcruz">
