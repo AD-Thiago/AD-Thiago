@@ -18,17 +18,17 @@
 ---
 
 ## 🚀 Sobre Mim
+Projetos de Data Analytics & AI, com histórico comprovado de transformação digital de algo impacto ao negócio.
+Sempre traduzindo tecnologia complexa em resultados mensuráveis e geração de valor real.
 
-Transformo dados em vantagem competitiva, arquitetando soluções que eliminam gaps de negócio, reduzem custos e geram ROI para empresas. Sou especialista em Data Analytics & AI, com histórico comprovado em projetos de transformação digital que impactam diretamente o bottom-line das organizações.
+<p align="center"><i>“Tecnologia sem impacto de negócio é apenas ferramenta cara.”</i></p>
 
-Minha atuação combina liderança técnica, visão estratégica e domínio de arquiteturas multi-cloud (AWS, GCP, Azure), sempre traduzindo tecnologia complexa em resultados mensuráveis e geração de valor real.
 
-> **Frase de impacto:**  
-> _“Resolver um bug é esculpir conhecimento com emoção.”_
+
 
 ---
 
-## ⚡ Expertise Técnica
+## ⚡ Expertise Técnica > > _“Resolver um bug é esculpir conhecimento com emoção.”_
 
 | Multi-Cloud | AI/ML Platforms | Data Stack | Metodologias |
 |-------------|-----------------|------------|--------------|
