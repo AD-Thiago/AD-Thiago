@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Scrum%20Master-6DB33F?logo=scrum&logoColor=white&style=for-the-badge" />
 </p>
 
-## 🌟 Resumo Profissional
+## 🌟 TECNOLOGIA !!!!  SEM ALINHAMENTO COM A ESTRATÉGIA DE NEGÓCIO, É SÓ UMA FERRAMENTA CARA!
 
 Arquiteto de Soluções & Tech Lead, apaixonado por IA, Machine Learning e transformação digital. Especialista em arquiteturas Multi-Cloud, Data Analytics, MLOps e projetos de impacto que transformam dados em decisões e inovação real nos negócios!
 
