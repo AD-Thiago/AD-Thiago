@@ -24,16 +24,25 @@ Arquiteto de Soluções & Tech Lead há 12 anos, apaixonado por IA, Machine Lear
 
 ## 💼 Destaques de Carreira
 
-- 🏆 **12 anos de experiência** em tecnologia e arquitetura de soluções.
-- 🚀 Projetos de impacto real em IA, Analytics e Multi-Cloud.
-- 🎯 Cases:
+• 🏆 **12 anos de experiência** em tecnologia e arquitetura de soluções.
+• 🚀 Projetos de impacto real em IA, Analytics e Multi-Cloud.
+• 🎯 Cases:
    - *Marketing Analytics*: Arquiteturas em Google Cloud/BigQuery, LLMs, Python.
    - *Anti-Fraude*: Azure ML, Delta Lake (projeto com aprovação acelerada).
    - *Clusterização Multi-Cloud*: solução aprovada e implementada em apenas 5 dias.
-- 👨🏻‍💼 Evolução: Tech Lead, Arquiteto de Soluções, Data Analyst Specialist (Resource IT, RED Innovations e outros).
-- 👔 Setores atendidos: Varejo, Banking, Saúde, Indústria, Digital.
-- 📈 Resultados concretos: redução de custos de até 40%, aumento de conversão, impacto em +50 clientes.
-- 🔖 Certificações: Google Cloud ML Engineer, AWS Cloud Practitioner, Databricks, Scrum Master, Alteryx (já aparecem como badges acima).
+• 👨🏻‍💼 Evolução: Tech Lead, Arquiteto de Soluções, Data Analyst Specialist (Resource IT, RED Innovations e outros).
+• 👔 Setores atendidos: Varejo, Banking, Saúde, Indústria, Digital.
+• 📈 Resultados concretos: redução de custos de até 40%, aumento de conversão, impacto em +50 clientes.
+• 🔖 Certificações: Google Cloud ML Engineer, AWS Cloud Practitioner, Databricks, Scrum Master, Alteryx (já aparecem como badges acima).
+
+---
+
+## 🛤️ Linha do Tempo Profissional
+
+- **2023–2024**: **RED Innovations** — Soluções IA/ML, Marketing Analytics, Anti-Fraude e clusters Multi-Cloud.
+- **2021–2023**: **Resource IT Solutions** — Pré-vendas, discovery técnico, arquitetura personalizada para clientes.
+- **2016–2021**: **Projetos Independentes/Analytics** — Consultoria, BI, transformação digital em setores diversos.
+- **2016–2020**: **Bacharel em Sistemas de Informação** — Estácio de Sá.
 
 ---
 
