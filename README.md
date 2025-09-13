@@ -29,8 +29,8 @@ Arquiteto de Soluções & Tech Lead, apaixonado por IA, Machine Learning e trans
 • 🎯 Cases:
    - *Marketing Analytics*: Arquiteturas em Google Cloud/BigQuery, LLMs, Python.
    - *Anti-Fraude*: Azure ML, Delta Lake (projeto com aprovação acelerada).
-   - *Clusterização Multi-Cloud*: solução aprovada e POC implementada em apenas 5 dias.
-• 👨🏻‍💼 Evolução: Tech Lead, Arquiteto de Soluções, Data Analyst Specialist (Resource IT, RED Innovations e outros).
+   - *Clusterização Multi-Cloud*: solução aprovada e POCS diversas.
+• 👨🏻‍💼 Evolução: Tech Lead, Arquiteto de Soluções, Data Analyst Specialist.
 • 👔 Setores atendidos: Varejo, Banking, Saúde, Indústria, Digital.
 • 📈 Resultados concretos: redução de custos de até 40%, aumento de conversão, impacto em +50 clientes.
 • 🔖 Certificações: Google Cloud ML Engineer, AWS Cloud Practitioner, Databricks, Scrum Master, Alteryx.
