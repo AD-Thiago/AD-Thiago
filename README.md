@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=00C9A7&center=true&vCenter=true&width=700&height=60&lines=👾+Hello%2C+I%27m+Thiago+Cruz!;+AI+%7C+Multi-Cloud+%7C+Data+Solutions+Architect+🪖;+Arquitetando+o+futuro+com+IA+e+Dados" alt="Typing SVG" />
 </p>
-
+“Tecnologia sem impacto de negócio é apenas ferramenta cara.”
 <!-- Badges de Contato e Certificações -->
 <p align="center">
   <a href="https://www.linkedin.com/in/duartcruz"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
